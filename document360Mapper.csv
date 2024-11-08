@@ -1,0 +1,6 @@
+URL,ID
+/projectPortal/:id/document/rfi/rfiList/,1060000090271
+/projectPortal/:id/document/reports/project/submittal,1060000085962
+/projectPortal/:id/document/newPlans/all,1060000090234
+/projectPortal/:id/document/submittals/package/:id/registries/:id/?tab=details,1060000090166
+/projectPortal/:id/document/submittals/package/:id/registries/:id/?tab=workflow,1060000090167
